@@ -42,7 +42,7 @@ const ContactPage = () => {
               <a href="mailto:info@cleanpro.com" style={{ color: '#6b7280', textDecoration: 'none', fontSize: '1.1rem' }}
                  onMouseEnter={(e) => e.target.style.color = '#f59e0b'}
                  onMouseLeave={(e) => e.target.style.color = '#6b7280'}>
-                info@cleanpro.com
+                 quickrentalsbangalore@gmail.com
               </a>
             </div>
           </div>
